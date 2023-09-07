@@ -7,7 +7,7 @@ One needle consists of spheres. The middle sphere also contains a dipole which i
 A needle always consists of an odd number of spheres so there is always one middle sphere.
 
 <p align="center">
-    <img width="400" src="../../Desktop/MN_Simulator%20copy/zz_pictures_for_readme/picture_1.png" alt="Figure 1"><br>
+    <img width="400" src="./zz_pictures_for_readme/picture_1.png" alt="Figure 1"><br>
     <em>Figure 1: Representation of one needle.</em>
 </p>
 
@@ -24,7 +24,7 @@ In the following step it is checked whether the position is allowed (all spheres
 Then the total energy is calculated (all potentials together) and if it is lower than before the new state gets accepted. 
 
 <p align="center">
-    <img width="600" src="../../Desktop/MN_Simulator%20copy/zz_pictures_for_readme/picture_2.png" alt="Figure 2"><br>
+    <img width="600" src="./zz_pictures_for_readme/picture_2.png" alt="Figure 2"><br>
     <em>Figure 2: The flow of the program.</em>
 </p>
 
@@ -65,7 +65,7 @@ $$u_{f} = \overrightarrow{m_{1}} \cdot \overrightarrow{f}$$
 As one can see in Figure 3 and Figure 4 the needles align according to the field vector  $(2000, 0, 0)^{T}$.
 
 <p align="center">
-    <img src="../../Desktop/MN_Simulator%20copy/zz_pictures_for_readme/picture_3.png" alt="Figure 3"><br>
+    <img src="./zz_pictures_for_readme/picture_3.png" alt="Figure 3"><br>
     <em>
     Figure 3: The system after the initialization (left) and the system after the simulation (right).
     </em>
