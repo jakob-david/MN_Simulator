@@ -7,7 +7,7 @@ One needle consists of spheres. The middle sphere also contains a dipole, which 
 A needle always consists of an odd number of spheres, so there is always one middle sphere.
 
 <p align="center">
-    <img width="400" src="./zz_pictures_for_readme/picture_1.png" alt="Figure 1"><br>
+    <img width="400" src="./pictures/picture_1.png" alt="Figure 1"><br>
     <em>Figure 1: Representation of one needle.</em>
 </p>
 
@@ -24,7 +24,7 @@ The following step checks whether the position is allowed (all spheres are insid
 Then, the total energy (all potentials together) is calculated, and if it is lower than before, the new state is accepted. 
 
 <p align="center">
-    <img width="600" src="./zz_pictures_for_readme/picture_2.png" alt="Figure 2"><br>
+    <img width="600" src="./pictures/picture_2.png" alt="Figure 2"><br>
     <em>Figure 2: The flow of the program.</em>
 </p>
 
