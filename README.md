@@ -65,7 +65,7 @@ $$u_{f} = \overrightarrow{m_{1}} \cdot \overrightarrow{f}$$
 As one can see in Figure 3 and Figure 4, the needles align according to the field vector  $(2000, 0, 0)^{T}$.
 
 <p align="center">
-    <img src="./zz_pictures_for_readme/picture_3.png" alt="Figure 3"><br>
+    <img src="./pictures/picture_3.png" alt="Figure 3"><br>
     <em>
     Figure 3: The system after the initialization (left) and the system after the simulation (right).
     </em>
