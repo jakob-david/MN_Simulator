@@ -18,7 +18,7 @@ All needles are saved in one array.
 The simulation is handled inside a cuboid. The needles are not allowed to touch or protrude outside the boundaries. 
 
 ### Program Flow
-Below is the general flow of the program using a BPMN (which, of course, is not the program you should actually use for something like that :D)
+Below is the general flow of the program using a BPMN (which, of course, is not the notation one should actually use for something like this :D)
 First, all needles are initialized inside the cuboid. After that, in each step, the angle of one random needle is altered randomly.
 The following step checks whether the position is allowed (all spheres are inside the cuboid and do not overlap).
 Then, the total energy (all potentials together) is calculated, and if it is lower than before, the new state is accepted. 
